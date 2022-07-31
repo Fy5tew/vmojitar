@@ -2,7 +2,10 @@
 Vmojitar — это простой бот VK для генерации аватарок из стикеров vmoji.
 ## Принцип работы
 Пользователь присылает боту интересующий стикер и выбирает один из предложенных узоров и цветов, после чего бот создаёт конечное изображение и присылает его пользователю.
-Пример такого фото находится [здесь](https://github.com/Fy5tew/vmojitar/blob/master/vmojitar.jpg).
+Пример такого фото:
+
+<img src="https://github.com/Fy5tew/vmojitar/blob/master/vmojitar.jpg" width="150" alt="https://github.com/Fy5tew/vmojitar/blob/master/vmojitar.jpg" />
+
 ## Зависимости
 В проекте используется Python3.9. Скачать его можно с [официального сайта](https://www.python.org/).
 
