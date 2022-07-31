@@ -1,0 +1,10 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN",
+  "api_version": "BOT_API_VERSION",
+
+  "logging_level": "INFO",
+  "random_sid_length": 10,
+
+  "prefixes": ["", "/", "!"],
+  "sticker_product_ids": [1554]
+}
